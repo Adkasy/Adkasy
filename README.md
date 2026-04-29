@@ -4,4 +4,4 @@
 * 🤔 I’m looking for help with scaling frontend architecture and transitioning into mobile app development
 * 💬 Ask me about frontend development, React ecosystem, or my journey into mobile development
 * 📫 How to reach me: [adityakasyidi@gmail.com](mailto:adityakasyidi@gmail.com)
-* ⚡ Fun fact: I enjoy building things—from web apps to mobile—and constantly leveling up my skills 🚀
+* ⚡ Fun fact: I enjoy building things from web apps to mobile and constantly leveling up my skills 🚀
