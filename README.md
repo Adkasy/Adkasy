@@ -1,17 +1,13 @@
-### Hey, I'm Adit 👋
+🔭 Software Developer at PT Paragon Technology and Innovation (Paragon)
 
-Software Developer at **PT Paragon Technology and Innovation**, based in Indonesia 🇮🇩
+🌱 Currently learning Frontend Development with React, Next.js, and Vue, while also exploring mobile app development using React Native
 
-I build web apps professionally and I'm currently getting deep into the React ecosystem (Next.js, Vue) while exploring mobile dev with React Native on the side.
+🚀 Open to collaborating on web and mobile development projects, especially frontend-focused applications
 
-Always open to collab on frontend or mobile projects. Got something cool in the works? Let's talk.
+🧠 Interested in learning more about scalable frontend architecture, clean system design, and transitioning from web development to mobile development
 
-**What I'm working with**
-React · Next.js · Vue · React Native
+💬 Ask me about frontend development, the React ecosystem, or my journey as a developer
 
-**What I'm figuring out**
-Scaling frontend architecture and bridging the gap between web and mobile dev.
+📫 Reach me at: [adityakasyidi@gmail.com](mailto:adityakasyidi@gmail.com)
 
-💬 Ask me anything about frontend dev or the React ecosystem
-📫 adityakasyidi@gmail.com
-⚡ Always building, always learning 🚀
+⚡ Fun fact: I enjoy building things from web platforms to mobile apps and continuously leveling up my skills 🚀
