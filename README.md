@@ -8,6 +8,6 @@
 
 📫 Reach me through:
 
-  • Email: [adityakasyidi@gmail.com](mailto:adityakasyidi@gmail.com)
+   • Email: [adityakasyidi@gmail.com](mailto:adityakasyidi@gmail.com)
 
-  • LinkedIn: https://linkedin.com/in/aditya-kasyidi
+   • LinkedIn: https://linkedin.com/in/aditya-kasyidi
