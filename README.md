@@ -1,6 +1,6 @@
 🔭 Software Developer at PT Paragon Technology and Innovation (Paragon)
 
-🌱 Currently learning Frontend Development with React, Next.js, and Vue, while also exploring mobile app development using React Native
+🌱 Currently learning Frontend Development with React, Next, and Vue, while also exploring mobile app development using React Native
 
 🚀 Open to collaborating on web and mobile development projects, especially frontend focused applications
 
