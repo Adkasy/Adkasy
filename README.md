@@ -6,4 +6,6 @@
 
 🧠 Interested in learning more about scalable frontend architecture, clean system design, and transitioning from web development to mobile development
 
-📫 Reach me at: [adityakasyidi@gmail.com](mailto:adityakasyidi@gmail.com)
+📫 Reach me through:
+  • Email: [adityakasyidi@gmail.com](mailto:adityakasyidi@gmail.com)
+  • LinkedIn: https://linkedin.com/in/aditya-kasyidi
